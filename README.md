@@ -44,7 +44,7 @@ e.g. The Package Import Export Utilities or a custom website that connects to th
 
 ## How It Works
 
-![screenshot](screenshots/excel-add-in.png.png)
+![excel-add-in](screenshots/excel-add-in.png.png)
 ![Part](screenshots/part.png)
 
 ## Usage
