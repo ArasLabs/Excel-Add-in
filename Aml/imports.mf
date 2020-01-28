@@ -1,0 +1,3 @@
+<imports>
+  <package name="ExcelAddIn" path="ExcelAddIn\Import" />
+</imports>
