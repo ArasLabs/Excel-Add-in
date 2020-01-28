@@ -59,7 +59,7 @@ e.g. The Package Import Export Utilities or a custom website that connects to th
 
 ## Credits
 
-# Created by the Aras Labs team:
+### Created by the Aras Labs team:
 * Rob McAveney
 * Christopher Gillis
 * Volodymyr Shyshkivskyi
